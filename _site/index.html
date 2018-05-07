@@ -9,15 +9,15 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Harsh Gadodia's Personal Website</title>
-<meta name="description" content="Add Description">
+<!-- begin _includes/seo.html --><title>Harsh Gadodia</title>
+<meta name="description" content="Harsh Gadodia’s Personal Website">
 
 
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Harsh Gadodia's Personal Website">
-<meta property="og:title" content="Harsh Gadodia’s Personal Website">
+<meta property="og:site_name" content="Harsh Gadodia">
+<meta property="og:title" content="Harsh Gadodia">
 <meta property="og:url" content="http://localhost:4000/">
 
 
@@ -63,7 +63,7 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Harsh Gadodia's Personal Website Feed">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Harsh Gadodia Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -111,7 +111,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="/">Harsh Gadodia's Personal Website</a>
+        <a class="site-title" href="/">Harsh Gadodia</a>
         <ul class="visible-links">
           
             
@@ -120,6 +120,12 @@
             </li>
           
         </ul>
+        
+        <button class="search__toggle" type="button">
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle Menu</span>
@@ -144,6 +150,14 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
+  
+    <div class="author__avatar">
+      
+
+      
+        <img src="/assets/harshprofile.png" alt="Harsh Gadodia" itemprop="image">
+      
+    </div>
   
 
   <div class="author__content">
@@ -185,9 +199,21 @@
       
 
       
+        <li>
+          <a href="https://www.linkedin.com/in/harsh-gadodia" itemprop="sameAs">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
+          </a>
+        </li>
+      
 
       
 
+      
+        <li>
+          <a href="https://instagram.com/instaharshgram" itemprop="sameAs">
+            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram
+          </a>
+        </li>
       
 
       
@@ -259,6 +285,11 @@
     </div>
 
     
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><input type="text" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+    <div id="results" class="results"></div></div>
+      </div>
+    
 
     <div class="page__footer">
       <footer>
@@ -281,7 +312,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2018 Harsh Gadodia. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2018 Harsh Gadodia. </div>
 
       </footer>
     </div>
@@ -292,6 +323,10 @@
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
