@@ -3,9 +3,9 @@ main:
   #title: "Quick-Start Guide"
   #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://harshgadodia.com/about
-  #title: "Sample Posts"
-  #url: /year-archive/
+    url: www.harshgadodia.com/about
+  - title: "Contact"
+    url: www.harshgadodia.com/contact
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
