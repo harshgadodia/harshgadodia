@@ -1,9 +1,17 @@
-_ _ _ 
+---
 
-title: "About"
 permalink: /about/
+title: "About"
 
-_ _ _
+defaults:
+# _pages
+- scope:
+path: ""
+type: pages
+values:
+layout: single
+author_profile: true
+---
 
 
 #Hello there, and welcome to my website. My name is Harsh Gadodia.
