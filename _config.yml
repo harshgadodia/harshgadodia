@@ -102,7 +102,7 @@ author:
   avatar           : "/assets/harshprofile.png"
   bio              : "Student/Programmer"
   location         : "Singapore"
-  email            : 
+  email            : "me@harshgadodia.com"
   uri              :
   home             : www.harshgadodia.com # null (default), "absolute or relative url to link to author home"
   bitbucket        :
