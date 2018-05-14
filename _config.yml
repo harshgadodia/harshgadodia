@@ -104,7 +104,7 @@ author:
   location         : "Singapore"
   email            : "me@harshgadodia.com"
   uri              :
-  home             : www.harshgadodia.com # null (default), "absolute or relative url to link to author home"
+  home             : harshgadodia.com # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
