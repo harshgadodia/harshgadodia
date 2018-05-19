@@ -18,6 +18,6 @@ related: true
 
 # Testing Uploading Files
 
-#### You can download the keynote document [here]({{ "/assets/testing.key | harshgadodia.com }}")
+#### You can download the keynote document [here]({{ "/assets/testing.key | harshgadodia.com/assets/testing.key }}")
 
 
