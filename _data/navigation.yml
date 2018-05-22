@@ -6,6 +6,10 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
