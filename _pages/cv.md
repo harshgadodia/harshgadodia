@@ -12,5 +12,5 @@ values:
 layout: single
 author_profile: true
 ---
-### You can download the latest copy of the CV on this page soon. Stay tuned!
+### You can download the latest copy of my CV on this page [here]({{ "/assets/CV - Harsh Gadodia.docx" | absolute_url }}).
 
