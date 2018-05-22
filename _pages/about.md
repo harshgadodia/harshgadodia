@@ -14,4 +14,4 @@ author_profile: true
 ---
 
 
-### Hello there, and welcome to my website. My name is Harsh Gadodia.
+### Hello there, and welcome to my website. My name is Harsh Gadodia. 
