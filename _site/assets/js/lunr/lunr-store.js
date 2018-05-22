@@ -3,4 +3,9 @@ var store = [{
         "excerpt":"Site in progress I am in the process of building this website. Some links may or may not work while I am messing around with stuff - apologies, and I hope you revisit after I’m up and running! ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/Hello,-World/",
+        "teaser":null},{
+        "title": "Testing Uploading",
+        "excerpt":"Testing Uploading Files You can download the keynote document [here]  (http://localhost:4000/assets/testing.key) directly. ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/Testing-Uploading/",
         "teaser":null}]
