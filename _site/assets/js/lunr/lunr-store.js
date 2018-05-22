@@ -5,7 +5,7 @@ var store = [{
         "url": "http://localhost:4000/Hello,-World/",
         "teaser":null},{
         "title": "Testing Uploading",
-        "excerpt":"Testing Uploading Files You can download the keynote document [here]  (http://localhost:4000/assets/testing.key) directly. ","categories": [],
+        "excerpt":"Testing Uploading Files You can download the keynote document here directly. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/Testing-Uploading/",
         "teaser":null}]
