@@ -3,8 +3,8 @@
 permalink: /contact/
 title: "Contact"
 
+
 defaults:
-# _pages
 - scope:
 path: ""
 type: pages

@@ -265,14 +265,14 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-      published: false
+      published: true
   # _pages
   - 
     scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
@@ -281,4 +281,4 @@ defaults:
       comments: false
       share: false
       related: false
-      published: false
+      published: true

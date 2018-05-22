@@ -4,7 +4,6 @@ permalink: /cv/
 title: "CV"
 
 defaults:
-# _pages
 - scope:
 path: ""
 type: pages
