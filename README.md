@@ -1,1 +1,1 @@
-Built using Jekyll, and largely using the work of those who worked on the github repository minimal-mistakes. Special thanks to both.
+Built using Jekyll, using the theme (github repository) minimal-mistakes. 
