@@ -14,3 +14,4 @@ layout: splash
 
 
 ### Hello there, and welcome to my website. My name is Harsh Gadodia. 
+[My homepage picture] ({{ "/assets/homePicture.jpg" | absolute_url }})
