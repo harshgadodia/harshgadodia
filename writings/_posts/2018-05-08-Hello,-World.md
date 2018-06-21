@@ -12,12 +12,13 @@ read_time: true
 comments: true
 share: true
 related: true
+classes: wide
 
 ---
 
 
-# Site in progress
+#### Motivation
 
-#### I am in the process of building this website. Some links may or may not work while I am messing around with stuff - apologies, and I hope you revisit after I'm up and running!
+#### Lying on the bed at 4am watching Netflix made me realise: I'm a bum and all I do is *consume* content. I thought it'd be great for me to *produce* content once in a while too. I hope to use this space on the web to share content that I have created - writings, commentaries, maybe a few drawings here and there. Cheers!
 
 

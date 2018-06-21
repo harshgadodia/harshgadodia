@@ -12,5 +12,6 @@ layout: splash
 
 ---
 
+<img src= "/assets/homePicture.jpg" width="100000000">
 
-### Hello there, and welcome to my website. My name is Harsh Gadodia. 
+
