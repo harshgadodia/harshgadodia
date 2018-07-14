@@ -1,4 +1,20 @@
-Europe 2018 - *Warming up* with London and Stockholm
+---
+
+defaults:
+# _posts
+- scope:
+path: ""
+type: posts
+values:
+layout: posts
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+classes: wide
+
+---
 
 It was March this year that I decided to spend much of my summer break 2018 backpacking through Europe. Having a friend who was already interning in Stockholm for the past one year made it a whole lot easier to make the leap. In this and the next few posts, I will share stories, tips, and experiences that *hopefully* will transcend a mere transcription of my travels. My aim is to share my experiences, hopefully in a way that is useful to you, the reader.
 
