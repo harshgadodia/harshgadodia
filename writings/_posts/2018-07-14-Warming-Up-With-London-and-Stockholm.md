@@ -16,7 +16,7 @@ classes: wide
 
 ---
 
-It was March this year that I decided to spend much of my summer break 2018 backpacking through Europe. Having a friend who was already interning in Stockholm for the past one year made it a whole lot easier to make the leap. In this and the next few posts, I will share stories, tips, and experiences that *hopefully* will transcend a mere transcription of my travels. My aim is to share my experiences, hopefully in a way that is useful to you, the reader.
+It was in March this year that I decided to spend much of my summer break 2018 backpacking through Europe. Having a friend who was already interning in Stockholm for the past one year made it a whole lot easier to make the leap. In this and the next few posts, I will share stories, tips, and experiences that *hopefully* will transcend a mere transcription of my travels. My aim is to share my experiences, hopefully in a way that is useful to you, the reader.
 
 I started off my journey flying directly from Singapore to London via Norwegian Air. This flight is supposed to the longest budget flight in the world, and I did not know what to expect - however, I do have to say that I have absolutely no complaints for the price I paid (around 500 SGD from Singapore to London, and then London to Stockholm inclusive). Meals were served on time and the plane was brand new. One small tip may be to bring your own 3.5mm jack headphones if you wish to enjoy the in-flight entertainment. Norwegian Air also lands at Gatwick Airport instead of Heathrow for most premium airlines, but they are both pretty much equidistant from the city centre.
 
