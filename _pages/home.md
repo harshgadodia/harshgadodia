@@ -12,6 +12,6 @@ layout: splash
 
 ---
 
-<img src= "/assets/homePicture.jpg" width="100000000">
+<img src= "/assets/burano.jpg" width="100000000">
 
 
