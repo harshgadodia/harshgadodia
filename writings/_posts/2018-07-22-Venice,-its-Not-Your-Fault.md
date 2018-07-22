@@ -15,9 +15,6 @@ related: true
 classes: wide
 
 ---
-
-Venice, it's not your fault.
-
 I don't have to tell you that Venice is one of the most beautiful places on Earth. What you might not know is that it is suffering with too many tourists, to the point that it's threatening the city's very existence. Venice may soon both lose it's status as a UNESCO world heritage site and enter the "In-Danger List", normally reserved for ruins in third-world countries.  
 
 *A short history*
