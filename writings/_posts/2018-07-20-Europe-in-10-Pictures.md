@@ -54,7 +54,7 @@ classes: wide
 
 9. Real Alcazar de Sevilla is a palace built for the Chrisrtian King Peter of Castile from the ruins of a Muslim residential fortress. You may recognize it as The Water Gardens of Dorne from the Game of Thrones. Possibly a spoiler?
 
-<img src= "/assets/lyoncroix.jpg" width="100000000"> 
+<img src= "/assets/lyonCroix.jpg" width="100000000"> 
 
 10. Le Mer de Canuts in Croix-Rousse, Lyon is a huge mural on the side of a residential building. It is said to be Europe's largest fresco. Dating back to 1986, it has now been updated to reflect the changes in the neighbourhood since.
 
