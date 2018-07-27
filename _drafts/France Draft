@@ -1,2 +1,39 @@
-France
+---
+
+defaults:
+# _posts
+- scope:
+path: ""
+type: posts
+values:
+layout: posts
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+classes: wide
+
+---
+## Truth be told, I didn't know what to expect from my 9 days in France (Paris, Lyon, Nice, Cannes and Marseille). 
+
+Being the first stop of my 5 weeks of backpacking after short stints in London and Stockholm, I was definitely excited to get up and running. I did, however, have mixed feelings as well because of what I had been told about the French and France. The French are notorious for being rude to English-speakers, and I was worried about my belongings - petty crimes are common in France, especially in the bigger cities. Well, I was on holiday, and determined to get my money's worth, I set out with a smile on my face.
+
+Having last been to Paris 10 years ago for the first time, I kind of knew what to expect. The fashion capital of the world continues to draw millions of visitors to attractions such as the Louvre, the Eiffel Tower, Arc de Triomphe, and Champs-Élysées. We added to those numbers. Crowded, kind if dirty, and clearly overpopulated, the French capital of the world continues to charm its visitors for some reason that I cannot pen. The city of love has an aura about it, and it is as if time stops when you are in Paris (especially when you are trying to buy tickets to the tip of the Eiffel). Despite the number of tourists and many touts, walking along the Seine is still pleasant, and the views from the Eiffel Tower still blow you away. The city has managed to somehow retain its charm even while bursting at its seams.
+
+We took an overnight bus from Paris to Lyon - tiring, but very cheap, and saves you one night of accommodations. Being in Lyon felt like being in a different part of the world. Unlike Paris, Lyon is  more organised, cheaper, and tourists are fewer and further in between. The third-largest city in France with half a million inhabitants, part of Lyon is a UNSECO world heritage site for the "exceptional testimony to the continuity of urban settlement over more than two millennia on a site of great commercial and strategic significance." 
+
+
+
+I'm glad to say 
+
+<img src= "/assets/bridgeOfSighs.jpg" width="100000000"> //change image at some point / insert new images
+
+Tips for France: 
+	1. Even if you don't speak French, starting with "Bonjour" makes a difference.  
+	2. If you think someone is pretending to not understand English, just start to speak to them in a third language. They will magically start to understand English then.
+	3. Strikes in France are now pretty much a way of life. They are extremely annoying, and you will only know, for example regarding trains, if your train is affected by strikes at 5pm the day before you travel. Although you are given a refund, that leaves you with little to no time to make alternate arrangements. There are usually buses that ply the same route, though.
+	4. Presenting identification as an EU student usually means heavy discounts at all attractions. Some are outright free.
+	5. If you like to live dangerously, you don't have to pay for public transport at all in France. I've seen that many locals jump the gates or just enter buses without paying, especially through the back entrance.
+
 
