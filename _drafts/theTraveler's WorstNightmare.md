@@ -39,7 +39,7 @@ We spent the next few hours trying to find alternative ways to reach Copenhagen.
 
 **Wrong.** We found out around noon that our flight tickets were canceled because of bank authorization issues (or so kiwi.com claims) and we were going to be given a refund. Yay, another refund. And now we had less than half the time to make another booking, and flights were on average, about 1000 Euros for a similar timing. Clearly, the benevolent, all-knowing being was having his/her/their fun with us. We eventually booked a flight directly to Stockholm, skipping Copenhagen together, at 20 times the original cost of the ticket. We also wasted two nights of hostel stays, train tickets, and the opportunity to explore Copenhagen, something I was really looking forward to. 
 
-As I type this, I'm sitting in an airport in Warsaw, Poland. I have 10 hours to kill before my next flight. I have neither the will, nor the energy, nor the money to leave the airport. All i'm doing is praying for no more surprises. I've been told that this is the *fun* of traveling.
+As I type this, I'm sitting in an airport in Warsaw, Poland. When checking in at Belgium, we were told by staff the system said our final stop was not Stockholm but Berlin or something, I can't even remember. I didn't know if to laugh, cry, scream, or just wish that I combusted into carbon. Fortunately, it was a mistake. I have 10 hours to kill before my next flight. I have neither the will, nor the energy, nor the money to leave the airport. All i'm doing is praying for no more surprises. I've been told that this is the *fun* of traveling. Please pray my check-in bags make it to Stockholm at the same time as me as well, I really need to shower.
 
 
 
