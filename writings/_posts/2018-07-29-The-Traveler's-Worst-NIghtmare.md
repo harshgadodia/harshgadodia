@@ -15,7 +15,7 @@ related: true
 classes: wide
 
 ---
-## I haven't neither showered nor slept in the comfort of a bed (or really, any comfortable surface) in 3 days. I would be lying if I said I am able to type this article without spell-checker and auto-correct doing some very heavy lifting. I'm tired, hungry, and hallucinating. Plus, I can smell myself.
+## I have neither showered nor slept in the comfort of a bed (or really, any comfortable surface) in 3 days. I would be lying if I said I am able to type this article without spell-checker and auto-correct doing some very heavy lifting. I'm tired, hungry, and hallucinating. Plus, I can smell myself.
 
 *In the past 48 hours, my friend and I have experienced 2 of probably the worst possible things that can happen to a tourist - getting our belongings stolen, and getting a flight canceled without being re-booked.*
 
