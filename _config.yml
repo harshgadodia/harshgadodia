@@ -263,13 +263,14 @@ defaults:
       path: "_posts"
       type: posts
     values:
-      layout: single
+      layout: posts
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
       published: true
+      classes: wide 
   # _pages
   - 
     scope:
@@ -279,7 +280,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
-      share: false
+      share: true
       related: false
       published: true
