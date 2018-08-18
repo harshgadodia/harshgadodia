@@ -1,7 +1,7 @@
 ---
 
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching and Feedback"
 
 defaults:
 # _pages
