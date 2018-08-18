@@ -1,6 +1,6 @@
 ---
 
-permalink: /cv/
+permalink: /c-v/
 title: "CV"
 
 defaults:
