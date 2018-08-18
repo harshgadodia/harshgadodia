@@ -1,6 +1,6 @@
 ---
 
-permalink: /teaching/
+permalink: /teaching and feedback/
 title: "Teaching and Feedback"
 
 defaults:
