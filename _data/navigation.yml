@@ -6,11 +6,11 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
-  - title: "Teaching"
+  - title: "Teaching and Feedback"
     url: /teaching/
   - title: "CV"
     url: /cv/
-  - title: "Writings"
+  - title: "Blog"
     url: /writings/
 
   # - title: "Sample Collections"
