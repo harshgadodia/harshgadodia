@@ -13,4 +13,3 @@ things to write about
 6. Dad 
 	My dad is unassuming, humble, and never fails to put others before himself. Unless it concerns 
 
-7. Europe in 10 pictures

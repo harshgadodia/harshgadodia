@@ -44,9 +44,3 @@ As I type this, I'm sitting in an airport in Warsaw, Poland. When checking in at
 *Friends, always make sure to watch out for your belongings when traveling. In Singapore, we take this for granted. Over my month in Europe, we heard of many cases of people's belongings being stolen from the bags on their bodies, from the airport while they were sleeping next to it, or in front of their eyes. Someone in Belgium next to me at the police station even had their car stolen, with all their belongings, passport, documents, everything inside of it. Also, while flight delays and cancellations cannot be prevented, it makes sense to know your rights as a passenger when they do, and have purchased travel insurance to share some of the blow when shit hits the fan.*
 
 
-
-
-
-
-
-
