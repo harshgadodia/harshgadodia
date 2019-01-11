@@ -15,7 +15,7 @@ related: true
 classes: wide
 
 ---
-I was in a good mood today, heading to terminal 4 (Changi Airport Singapore ) for a short vacation in Bali. The shuttle bus from terminal 3 was packed with equally excited travellers, most of which seemed to be Singaporean based on their looks and accents. 
+I was in a good mood today, heading to terminal 4 (Changi Airport Singapore) for a short vacation in Bali. The shuttle bus from terminal 3 was packed with equally excited travellers, most of which seemed to be Singaporean based on their looks and accents. 
 
 When the bus arrived at the terminal, people (naturally) started to rush towards the exit to alight. No one wants to be last in a situation like this! However, it made me really sad that no one would give way to a family of three, one of whom was a small baby in a pram. The father, who alighted first, was carrying a light blue bag of baby supplies, and I assumed people would wait for the mother (who was right behind) to follow next with the baby in the pram.
 
