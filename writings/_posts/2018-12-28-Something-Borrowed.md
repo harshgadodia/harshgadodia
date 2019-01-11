@@ -16,9 +16,9 @@ classes: wide
 
 ---
 
-<img src= "/assets/fluffy.JPG" width="100000000">
-
 I’ve always loved animals. It’s part of the reason that I’m vegetarian, and I’m fascinated by how they can co-exist with each other (and sometimes humans in the case of pets and farm animals) without the ability to talk to express complex ideas. Naturally, I was elated when a friend of my mom requested that we take care of her 4-year-old [Maltipoo](https://dogtime.com/dog-breeds/maltipoo#/slide/1), Fluffy, for a few weeks.
+
+<img src= "/assets/fluffy.jpg" width="100000000">
 
 (If you already have a dog, much of what I have to say will have little to no added value to you)
 
