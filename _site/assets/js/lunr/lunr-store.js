@@ -29,6 +29,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/writings/The-Traveler's-Worst-NIghtmare/",
         "teaser":null},{
+        "title": "The Price We Pay",
+        "excerpt":"I was in a good mood today, heading to terminal 4 (Changi Airport Singapore ) for a short vacation in Bali. The shuttle bus from terminal 3 was packed with equally excited travellers, most of which seemed to be Singaporean based on their looks and accents. When the bus arrived...","categories": ["writings"],
+        "tags": [],
+        "url": "http://localhost:4000/writings/The-Price-We-Pay/",
+        "teaser":null},{
         "title": "Something Borrowed",
         "excerpt":"I’ve always loved animals. It’s part of the reason that I’m vegetarian, and I’m fascinated by how they can co-exist with each other (and sometimes humans in the case of pets and farm animals) without the ability to talk to express complex ideas. Naturally, I was elated when a friend...","categories": ["writings"],
         "tags": [],
