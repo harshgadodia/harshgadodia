@@ -42,13 +42,13 @@ Chope God is an iOS application that allows users to drop a virtual pin and rese
 
 You can view the code [here](https://github.com/harshgadodia/ChopeGod).
 
-# [FoodHero]
+# [FoodHero](https://github.com/harshgadodia/food-hero)
 
 FoodHero allows event organisers to donate food left over after big events. One can use a Facebook messenger bot to interact with the service. Computer vision is used to estimate the quantity of food available. A website displays food available for charities to choose from.
 
 You can view the code [here](https://github.com/harshgadodia/food-hero)
 
-# [IvoryTasks]
+# IvoryTasks
 
 IvoryTasks is a command-line based tasked manager for quick and easy task management.
 
