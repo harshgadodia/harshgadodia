@@ -30,7 +30,7 @@ var store = [{
         "url": "http://localhost:4000/writings/The-Traveler's-Worst-NIghtmare/",
         "teaser":null},{
         "title": "The Price We Pay",
-        "excerpt":"I was in a good mood today, heading to terminal 4 (Changi Airport Singapore ) for a short vacation in Bali. The shuttle bus from terminal 3 was packed with equally excited travellers, most of which seemed to be Singaporean based on their looks and accents. When the bus arrived...","categories": ["writings"],
+        "excerpt":"I was in a good mood today, heading to terminal 4 (Changi Airport Singapore) for a short vacation in Bali. The shuttle bus from terminal 3 was packed with equally excited travellers, most of which seemed to be Singaporean based on their looks and accents. When the bus arrived at...","categories": ["writings"],
         "tags": [],
         "url": "http://localhost:4000/writings/The-Price-We-Pay/",
         "teaser":null},{
