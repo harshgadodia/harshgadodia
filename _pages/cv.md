@@ -46,7 +46,7 @@ You can view the code [here](https://github.com/harshgadodia/ChopeGod).
 
 FoodHero allows event organisers to donate food left over after big events. One can use a Facebook messenger bot to interact with the service. Computer vision is used to estimate the quantity of food available. A website displays food available for charities to choose from.
 
-You can view the code [here](https://github.com/harshgadodia/food-hero)
+You can view the code [here](https://github.com/harshgadodia/food-hero).
 
 # IvoryTasks
 
@@ -64,8 +64,8 @@ There are millions of profiles of dead people on Facebook. TombBook automaticall
 
 ## Awards & Scholarships
 
-* 2019 - Overall Winner, Hack&Roll, Singapore’s largest Hackathon
-* 2018 - Overall Winner, Hack&Roll, Singapore’s largest Hackathon
+* 2019 - Overall Winner, [Hack&Roll](https://hacknroll.nushackers.org), Singapore’s largest Hackathon
+* 2018 - Overall Winner, [Hack&Roll](https://hacknroll.nushackers.org), Singapore’s largest Hackathon
 * 2018 - 3rd, AWS Cloud Hackathon
 * 2016 - Overall Winner, Facebook Hackathon Southeast Asia
 * 2016 - Top 8, Facebook World Hackathon Finals, USA
