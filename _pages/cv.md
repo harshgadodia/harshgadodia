@@ -13,7 +13,6 @@ author_profile: true
 classes: wide
 ---
 
-
 ### [Technical Projects](#Technical)
 ### [Awards & Scholarships](#Awards)
 ### [Involvements](#Involvements)
@@ -28,13 +27,15 @@ classes: wide
 
 FoodExchange allows college students to buy and sell unused meal credits. It consists of a telegram bot and a React web application. The telegram bot is written entirely in Python using the telegram bot API, while the web app is built using ReactJS, HTML5/CSS, and NodeJS. The database was built using NoSQL on firebase. 
 
-The code is currently being cleaned up for continued open-source development, and will be available on GitHub.
+You can view the code [here](https://github.com/harshgadodia/FoodExchange)
 
 # Karina
 
 Karina is a (working prototype) AI personal assistant built from scratch for Singapore's largest IVF centre. 
 
-It built completely using cloud services, including AWS tools such as Cognito, S3, lambda, SES, SNS, CloudWatch, Lex, VPC and RDS. It is compliant to hospital privacy and availabity guidelines. We (myself and a team of 2 others) have been approached by the IVF centre to build a live version of this, and also by other departments in the hospital to solve technical challenges for them.
+It is built completely using cloud services, including AWS tools such as Cognito, S3, lambda, SES, SNS, CloudWatch, Lex, VPC and RDS. It is compliant to hospital privacy and availabity guidelines. We (myself and a team of 2 others) have been approached by the IVF centre to build a live version of this, and also by other departments in the hospital to solve technical challenges for them.
+
+You can view the code [here](https://github.com/harshgadodia/karina)
 
 # [Chope God](https://devpost.com/software/chope-god)
 
@@ -54,7 +55,7 @@ IvoryTasks is a command-line based tasked manager for quick and easy task manage
 
 # Sharity
 
-Sharity allows Facebook users to indirectly donate to a cause they believe in. This is done by supporting companies that pledge to donate money to charities through likes, comments, and shares. Just a few months after this idea was pitched to Facebook executives as part of a Hackathon, Facebook launched something very similar.
+Sharity allows Facebook users to indirectly donate to a cause they believe in. This is done by supporting companies that pledge to donate money to charities through likes, comments, and shares. Just a few months after this idea was pitched to Facebook executives as part of a Hackathon, Facebook launched something very similar officially.
 
 # TombBook
 
