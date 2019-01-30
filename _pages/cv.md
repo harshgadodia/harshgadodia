@@ -13,11 +13,11 @@ author_profile: true
 classes: wide
 ---
 
+### You can download the latest copy of my CV on this page [here]({{ "/assets/harshgadodia.pdf" | absolute_url }}).
+
 ### [Technical Projects](#Technical)
 ### [Awards & Scholarships](#Awards)
 ### [Involvements](#Involvements)
-### [CV](#CV)
-
 
 <a name="Technical"></a>
 
@@ -84,7 +84,7 @@ There are millions of profiles of dead people on Facebook. TombBook automaticall
 * 2016 - Head, Engineering Peer Mentorship Programme 
 * 2015 - House Captain, University Scholars Programme
 
-<a name="CV"></a>
+### You can also download the latest copy of my CV on this page [here]({{ "/assets/harshgadodia.pdf" | absolute_url }}).
 
-### You can download the latest copy of my CV on this page [here]({{ "/assets/harshgadodia.pdf" | absolute_url }}).
+
 
