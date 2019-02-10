@@ -38,4 +38,9 @@ var store = [{
         "excerpt":"I’ve always loved animals. It’s part of the reason that I’m vegetarian, and I’m fascinated by how they can co-exist with each other (and sometimes humans in the case of pets and farm animals) without the ability to talk to express complex ideas. Naturally, I was elated when a friend...","categories": ["writings"],
         "tags": [],
         "url": "http://localhost:4000/writings/Something-Borrowed/",
+        "teaser":null},{
+        "title": "Boxed Up By Requirements",
+        "excerpt":"In my second last semester in NUS as a computer engineering major, I decided to enrol in CS2102, database systems. There were several things I was looking forward to while taking the class, but none more so than the opportunity to work in a group on a real project. CS2102...","categories": ["writings"],
+        "tags": [],
+        "url": "http://localhost:4000/writings/Boxed-Up-By-Requirements/",
         "teaser":null}]
