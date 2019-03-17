@@ -1,6 +1,6 @@
 ---
 
-permalink: /Quotes
+permalink: /quotes/
 title: Quotes
 
 defaults:
