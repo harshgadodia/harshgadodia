@@ -6,6 +6,13 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
+  - title: "Professional"
+    url: /cv/
+  - title: "Writings"
+    url: /writings/
+  - title: "Quotes"
+    url: /quotes/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
