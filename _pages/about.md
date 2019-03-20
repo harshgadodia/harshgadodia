@@ -44,6 +44,10 @@ classes: wide
 - Titanic
 - Piku 
 - Queen 
+- Sonu Ke Titu Ki Sweety
+- How I Met Your Mother
+- Silicon Valley
+- The Office
 
 ### My favourite quotes:
 
