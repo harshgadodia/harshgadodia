@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "Harsh Gadodia"
   avatar           : "/assets/harshprofile.png"
-  bio              : "Student/Programmer"
+  bio              : "Software Engineer"
   location         : "Singapore"
   email            : "me@harshgadodia.com"
   uri              :

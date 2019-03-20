@@ -10,8 +10,6 @@ main:
     url: /cv/
   - title: "Writings"
     url: /writings/
-  - title: "Quotes"
-    url: /quotes/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
