@@ -1,6 +1,6 @@
 ---
 
-permalink: /contact/
+permalink: /getintouch/
 title: "Contact"
 
 defaults:
