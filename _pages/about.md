@@ -33,6 +33,8 @@ classes: wide
 - Lolita, by Vladimir Nabokov
 - [Essays](http://paulgraham.com/articles.html) by Paul Graham
     -   In Particular, [Cities and Ambition](http://www.paulgraham.com/cities.html)
+- Articles
+    - [How do I form more connections in my brain so I can be a livelier conversationalist and a quicker writer?](https://www.quora.com/How-do-I-form-more-connections-in-my-brain-so-I-can-be-a-livelier-conversationalist-and-a-quicker-writer/answer/Asher-Nitin?ch=99&share=bd3a6f38&srid=5Tf9)
 
 <a name="movies"></a>
 ### My favourite movies and TV shows:
