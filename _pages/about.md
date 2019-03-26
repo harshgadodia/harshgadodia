@@ -60,7 +60,7 @@ The sun never says to the earth,
 "You owe Me."  
 Look what happens with  
 A love like that,  
-It lights the Whole Sky.” (Hafiz, Persian Poet (1317-1390)
+It lights the Whole Sky.” (Hafiz)
 
 - "An expert is a man who has made all the mistakes which can be made in a very narrow field." ( Niels Bohr)
 
@@ -81,3 +81,29 @@ It lights the Whole Sky.” (Hafiz, Persian Poet (1317-1390)
 - “She is the beneficiary of the role suggested to her by the circumstances, and by which she is not entirely duped, fragile, and cornered, as it were, into defending herself in these little ways and by these “little dodges.”" (Michel de Certeau)
 
 - "There is no God, but don’t tell that to my servant, lest he murder me at night" (Voltaire)
+
+- “Be yourself; everyone else is already taken.” (Oscar Wilde)
+
+- "Whenever you find yourself on the side of the majority, it is time to pause and reflect." (Mark Twain)
+
+- “I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.” (Maya Angelou)
+
+- “Either you run the day, or the day runs you.” (Jim Rohn)
+
+- “The person who says it cannot be done should not interrupt the person who is doing it.” (Chinese Proverb, Author Unknown)
+
+- “If you tell the truth, you don’t have to remember anything.” (Mark Twain)
+
+- “Motivation is a fire from within. If someone else tries to light that fire under you, chances are it will burn very briefly.” (Stephen R Covey)
+
+- “He who angers you conquers you.” (Elizabeth Kenny)
+
+- “It is the mark of an educated mind to be able to entertain a thought without accepting it.” (Aristotle)
+
+- “When you are totally at peace with yourself, nothing can shake you.” (Deepam Chatterjee)
+
+- "I love you the more in that I believe you had liked me for my own sake and for nothing else." (John Keats)
+
+- "The supreme art of war is to subdue the enemy without fighting." (Sun Tzu)
+
+- "Not all those who wander are lost." - (J.R.R Tolkien)
