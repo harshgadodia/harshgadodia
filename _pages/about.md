@@ -33,8 +33,9 @@ classes: wide
 - Lolita, by Vladimir Nabokov
 - [Essays](http://paulgraham.com/articles.html) by Paul Graham
     -   In Particular, [Cities and Ambition](http://www.paulgraham.com/cities.html)
-- Articles
+- Articles (and some Videos)
     - [How do I form more connections in my brain so I can be a livelier conversationalist and a quicker writer?](https://www.quora.com/How-do-I-form-more-connections-in-my-brain-so-I-can-be-a-livelier-conversationalist-and-a-quicker-writer/answer/Asher-Nitin?ch=99&share=bd3a6f38&srid=5Tf9)
+    - [Why our IQ levels are higher than our grandparents](https://www.ted.com/talks/james_flynn_why_our_iq_levels_are_higher_than_our_grandparents?language=en)
 
 <a name="movies"></a>
 ### My favourite movies and TV shows:
