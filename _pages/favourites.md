@@ -1,4 +1,18 @@
-### My favourite reads:
+---
+
+permalink: /favourites/
+title: "Favourites"
+
+defaults:
+- scope:
+path: ""
+type: pages
+values:
+layout: single
+author_profile: true
+classes: wide
+---
+
 
 <a name="reads"></a>
 - The Little Prince, by Antoine de Saint-Exupéry
