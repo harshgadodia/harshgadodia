@@ -8,6 +8,8 @@ main:
     url: /getintouch/
   - title: "Professional"
     url: /cv/
+  - title: "Favourites"
+    url: /favourites/
   # - title: "Writings"
   #   url: /writings/
 

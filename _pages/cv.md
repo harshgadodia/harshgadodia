@@ -69,7 +69,7 @@ There are millions of profiles of dead people on Facebook. TombBook automaticall
 * 2018 - Overall Winner, [Hack&Roll](https://hacknroll.nushackers.org), Singapore’s largest Hackathon
 * 2018 - 3rd, AWS Cloud Hackathon
 * 2016 - Overall Winner, Facebook Hackathon Southeast Asia
-* 2016 - Top 8, Facebook World Hackathon Finals, USA
+* 2016 - Top 8 and Singapore Representative, Facebook Hackathon World Finals, USA
 * 2017 - NUS Overseas Scholarship
 * 2017 - Government Technology Scholarship
 * 2016 - Ngee Ann Kongsi Scholarship
@@ -80,7 +80,7 @@ There are millions of profiles of dead people on Facebook. TombBook automaticall
 
 * 2016, 2018, 2019 - Resident Assistant, Cinnamon College (University Scholars Programme)
 * 2017 - Tutor, Computer Science, National University of Singapore
-* 2018 - Head, [The Sessions](http://www.usp.nus.edu.sg/life-at-usp/interest-groups/239-the-sessions), University Scholars Programme
+* 2018 - Co-Head, [The Sessions](http://www.usp.nus.edu.sg/life-at-usp/interest-groups/239-the-sessions), University Scholars Programme
 * 2016 - Head, Engineering Peer Mentorship Programme 
 * 2015 - House Captain, University Scholars Programme
 
