@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "Harsh Gadodia"
   avatar           : "/assets/harshprofile.png"
-  bio              : "Software Engineer"
+  bio              : 
   location         : "Singapore"
   email            : "me@harshgadodia.com"
   uri              :
