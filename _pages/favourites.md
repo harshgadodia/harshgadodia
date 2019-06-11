@@ -62,8 +62,6 @@ It lights the Whole Sky.” (Hafiz)
 
 - “I have made this longer than usual because I have not had time to make it shorter.” (Blaise Pascal)
 
-- “Shoot for the moon. Even if you miss, you'll land among the stars.” (Norman Vincent Peale)
-
 - “The disadvantage of believing that all programming languages are equivalent is that it's not true. But the advantage is that it makes your life a lot simpler. And I think that's the main reason the idea is so widespread. It is a comfortable idea.” (Paul Graham)
 
 - “If we don’t take action, the collapse of our civilisations and the extinction of much of the natural world is on the horizon.” (David Attenborough)
@@ -86,16 +84,13 @@ It lights the Whole Sky.” (Hafiz)
 
 - “If you tell the truth, you don’t have to remember anything.” (Mark Twain)
 
-- “Motivation is a fire from within. If someone else tries to light that fire under you, chances are it will burn very briefly.” (Stephen R Covey)
-
-- “He who angers you conquers you.” (Elizabeth Kenny)
-
 - “It is the mark of an educated mind to be able to entertain a thought without accepting it.” (Aristotle)
 
 - “When you are totally at peace with yourself, nothing can shake you.” (Deepam Chatterjee)
 
 - "I love you the more in that I believe you had liked me for my own sake and for nothing else." (John Keats)
 
-- "The supreme art of war is to subdue the enemy without fighting." (Sun Tzu)
+- "Not all those who wander are lost." (J.R.R Tolkien)
 
-- "Not all those who wander are lost." - (J.R.R Tolkien)
+- “It was awful-tasting medicine, but I guess the patient needed it. Sometimes life hits you in the head with a brick. Don’t lose faith. I’m convinced that the only thing that kept me going was that I loved what I did.” (Steve Jobs, reflecting on getting fired from Apple in 1985)
+
