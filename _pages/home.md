@@ -1,7 +1,7 @@
 ---
 
 permalink: /
-title: "Welcome to my website."
+title: "Home - Harsh Gadodia"
 
 defaults:
 - scope:

@@ -24,8 +24,10 @@ What made them such great educators?
 
 I realised during the lessons, and later confirmed upon reflection, that both Prof A and Prof B were there to learn from us students as much as they were there to teach. For example, Prof A took down notes for himself when students said something that he thought was worth giving additional thought. Prof B spent some time in the first class of the semester asking students how they intended to contribute to the class, and what each individual could bring. This baffled many students in the class. Both of these examples illustrate a thirst for knowledge and self-improvement.
 
-Both Prof A and Prof B also expected a lot more from students compared to other professors. The classes taught by these two professors had both the the most number of graded assignments, and also the greatest variety of assignments amongst all the classes in my candidature. It was no coincidence that their classes had the highest workloads, though. More work for me was definitely more work for them, but they were more than just fine with it. Ther pushed us hard, while in tandem pushing themselves too.
+Both Prof A and Prof B also expected a lot more from students compared to other professors. The classes taught by these two professors had both the the most number of graded assignments, and also the greatest variety of assignments amongst all the classes in my candidature. It was no coincidence that their classes had the highest workloads, though. More work for me was definitely more work for them, but they were more than just fine with it. Ther pushed us hard, while expecting no less from themselves.
 
+
+14 June 2019
 
 
 
