@@ -16,7 +16,7 @@ Welcome.
 
 This is a puzzle hunt, with 22 mini challenges. Each challenge requires you to figure out the answer to a question.
 
-You will use the answer to that challenge to view the next challenge. 
+You will use the answer to that question to view the next challenge. 
 
 The format will always be harshgadodia.com/audra22/[PUZZLE-NUMBER]-[ANSWER].
 
