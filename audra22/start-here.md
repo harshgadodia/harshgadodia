@@ -26,7 +26,7 @@ harshgadodia.com/audra22/88-123.
 
 All the best!
 
-The next puzzle is puzzle number 1. You can view it [here](https://www.harshgadodia.com/audra22/1)
+The next puzzle is puzzle number 1. You can view it [here](https://harshgadodia.com/audra22/1)
 
 
 
