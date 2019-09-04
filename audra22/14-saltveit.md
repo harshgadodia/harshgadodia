@@ -12,7 +12,9 @@ layout: single
 
 ---
 
-The number of mutual friends between Ieva and I.
+Puzzle 14
+
+The number of mutual friends between Ieva and I on Facebook.
 
 
 

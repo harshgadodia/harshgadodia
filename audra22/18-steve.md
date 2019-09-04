@@ -12,9 +12,9 @@ layout: single
 
 ---
 
+Puzzle 18
 
-
-
+The date I joined Ninja Van. YYYYMMDD.
 
 
 
