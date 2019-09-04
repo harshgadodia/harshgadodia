@@ -10,6 +10,8 @@ main:
     url: /cv/
   - title: "Favourites"
     url: /favourites/
+  - title: /audra22/
+    url: /audra22/
   # - title: "Writings"
   #   url: /writings/
 
