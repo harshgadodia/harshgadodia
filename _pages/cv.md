@@ -13,7 +13,7 @@ author_profile: true
 classes: wide
 ---
 
-### You can download the latest copy of my CV on this page [here]({{ "/assets/harshgadodia-resume.pdf" | absolute_url }}).
+### You can download the latest copy of my resume [here]({{ "/assets/harshgadodia-resume.pdf" | absolute_url }}).
 
 ### [Technical Projects](#Technical)
 ### [Awards & Scholarships](#Awards)
