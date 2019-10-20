@@ -4,12 +4,12 @@ main:
   #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /getintouch/
   - title: "Professional"
-    url: /cv/
-  - title: "Favourites"
-    url: /favourites/
+    url: /professional/
+  # - title: "Blog"
+  #   url: /blog/
+  # - title: "Favourites"
+  #   url: /favourites/
   # - title: "Writings"
   #   url: /writings/
 
