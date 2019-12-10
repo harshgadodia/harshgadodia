@@ -8,10 +8,10 @@ main:
     url: /professional/
   # - title: "Blog"
   #   url: /blog/
-  # - title: "Favourites"
-  #   url: /favourites/
-  # - title: "Writings"
-  #   url: /writings/
+  - title: "Bookshelf"
+    url: /bookshelf/
+  - title: "Quotes"
+    url: /quotes/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/

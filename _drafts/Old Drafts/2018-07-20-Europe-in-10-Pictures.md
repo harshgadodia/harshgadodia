@@ -15,7 +15,7 @@ related: true
 classes: wide
 
 ---
-## I'm no photographer, but a picture speaks a thousand words. Here are some no-nonsense pictures I took with my iPhone around France, Spain and Italy, complete with some context. 
+## I'm no photographer, but a picture speaks a thousand words. Here are some no-nonsense pictures I took with my phone around France, Spain and Italy, complete with some context. 
 
 <img src= "/assets/bridgeOfSighs.jpg" width="100000000"> 
 
