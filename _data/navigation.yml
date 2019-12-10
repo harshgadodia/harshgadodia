@@ -6,8 +6,8 @@ main:
     url: /about/
   - title: "Professional"
     url: /professional/
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Blog"
+    url: /writings/
   - title: "Bookshelf"
     url: /bookshelf/
   - title: "Quotes"
