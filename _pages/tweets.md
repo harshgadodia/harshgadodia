@@ -19,5 +19,3 @@ classes: wide
 
 2. There are very few things that justify looking down on people. One of them is looking down on people. 
 
-3. 
-
