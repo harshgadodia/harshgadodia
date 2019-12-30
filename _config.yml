@@ -134,7 +134,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - _writings
+  - _blog
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -274,7 +274,7 @@ defaults:
   # _pages
   - 
     scope:
-      path: "writings/"
+      path: "blog/"
       type: pages
     values:
       layout: single

@@ -50,4 +50,6 @@ It lights the Whole Sky.” (Hafiz)
 - "Not all those who wander are lost." (J.R.R Tolkien)
 
 - “It was awful-tasting medicine, but I guess the patient needed it. Sometimes life hits you in the head with a brick. Don’t lose faith. I’m convinced that the only thing that kept me going was that I loved what I did.” (Steve Jobs)
+  
+- "The golden rule is a good standard which is further improved by doing unto others, wherever reasonable, as they want to be done by." (Kark Popper)
 
