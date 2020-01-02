@@ -31,8 +31,6 @@ It lights the Whole Sky.” (Hafiz)
 
 - “There are no gods in the universe, no nations, no money, no human rights, no laws, and no justice outside the common imagination of human beings.” (Yuval Noah Harari)
 
-- “She is the beneficiary of the role suggested to her by the circumstances, and by which she is not entirely duped, fragile, and cornered, as it were, into defending herself in these little ways and by these “little dodges.”" (Michel de Certeau)
-
 - "There is no God, but don’t tell that to my servant, lest he murder me at night" (Voltaire)
 
 - "Whenever you find yourself on the side of the majority, it is time to pause and reflect." (Mark Twain)
@@ -52,4 +50,11 @@ It lights the Whole Sky.” (Hafiz)
 - “It was awful-tasting medicine, but I guess the patient needed it. Sometimes life hits you in the head with a brick. Don’t lose faith. I’m convinced that the only thing that kept me going was that I loved what I did.” (Steve Jobs)
   
 - "The golden rule is a good standard which is further improved by doing unto others, wherever reasonable, as they want to be done by." (Kark Popper)
+  
+- “Hello, solitude. How are you today? Come, sit with me, and I will care for you.” (Thich Nhat Hanh)
 
+- “Put your hand on a hot stove for a minute and it seems like an hour. Sit with a pretty girl for an hour, and it seems like a minute. That is relativity.” (Albert Einstein)
+
+- “A happy man is too satisfied with the present to dwell on the future.” (Albert Einstein)
+
+ 
