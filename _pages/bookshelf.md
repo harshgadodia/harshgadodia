@@ -20,8 +20,13 @@ classes: wide
 - To Kill a Mockingbird, by Harper Lee
 - Animal Farm, by George Orwell
 - Nineteen Eighty-Four, by George Orwell
+- The Catcher in the Rye, by J. D. Salinger
+- Lolita, by Vladimir Nabokov
 - Sapiens: A Brief History of Humankind, by Yuval Noah Harari
 - The Autobiography of Malcolm X, by Alex Haley and Malcolm X
-- [Essays](http://paulgraham.com/articles.html) by Paul Graham
-    -   In Particular, [Cities and Ambition](http://www.paulgraham.com/cities.html)
 - Kafka on the Shore, by Haruki Murakami
+- This Is What Inequality Looks Like, by Teo You Yenn
+- Thinking, Fast and Slow, by Daniel Kahneman
+- Computing, a Concise History, by Paul E. Ceruzzi
+- The Clean Coder: A Code of Conduct for Professional Programmers by Robert Cecil Martin
+- Tiny Habits, by BJ Fogg 

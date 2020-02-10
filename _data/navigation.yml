@@ -1,7 +1,5 @@
 # main links
 main:
-  #title: "Quick-Start Guide"
-  #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
   # - title: "Professional"
@@ -12,8 +10,8 @@ main:
     url: /bookshelf/
   - title: "Quotes"
     url: /quotes/
-  # - links: "Links"
-  #   url: /links/
+  - title: "Links"
+    url: /links/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
