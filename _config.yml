@@ -269,7 +269,7 @@ defaults:
       comments: true
       share: true
       related: true
-      published: true
+      published: false
       classes: wide 
   # _pages
   - 

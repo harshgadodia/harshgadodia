@@ -8,10 +8,10 @@ type: posts
 values:
 layout: single
 author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+read_time: false
+comments: false
+share: false
+related: false
 classes: wide
 
 ---

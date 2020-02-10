@@ -12,6 +12,8 @@ main:
     url: /bookshelf/
   - title: "Quotes"
     url: /quotes/
+  # - links: "Links"
+  #   url: /links/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
