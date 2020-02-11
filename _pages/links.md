@@ -24,6 +24,7 @@ General
 5. [Advice by Patrick Collison](https://patrickcollison.com/advice)
 6. [Design Philosophy](http://www.paulgraham.com/design.html)
 7. [Why Our IQ Levels are Higher Than Our Grandparents'](https://www.ted.com/talks/james_flynn_why_our_iq_levels_are_higher_than_our_grandparents/discussion?utm_campaign=BeepBeepBites%20-%20Nieuwsbrief&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_2hFqnJe7bosPi-VvlewtW941D69tVvFt6qM1IybJvfE20MndKH58gdlK6LNcrEfTIfKHz) 
+8. [How do I form more connections in my brain so I can be a livelier conversationalist and a quicker writer?](https://www.quora.com/How-do-I-form-more-connections-in-my-brain-so-I-can-be-a-livelier-conversationalist-and-a-quicker-writer/answer/Asher-Nitin?ch=99&share=bd3a6f38&srid=5Tf9)
 
 Computer Science
 
@@ -33,3 +34,4 @@ Computer Science
 4. [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 5. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 6. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+7. [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
