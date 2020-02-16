@@ -13,7 +13,7 @@ author_profile: false
 classes: wide
 ---
 
-Here are some links that you might learn something from. I leave them here for posterity.
+Here are some links that you might learn something from - I leave them here for posterity.
 
 General
 
@@ -35,3 +35,4 @@ Computer Science
 5. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 6. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 7. [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+8. [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
