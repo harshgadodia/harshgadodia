@@ -19,4 +19,4 @@ I was born in India, but grew up in Singapore, where I served in the army as par
 
 My main interests outside of technology and entrepreneurship are reading, writing, traveling, and sports.
 
-You can download the latest copy of my resume [here]({{ "/assets/harshgadodia-resume.pdf" | absolute_url }}).
+You can download the latest copy of my resume [here]({{ "harshgadodia-resume.pdf" | absolute_url }}).
