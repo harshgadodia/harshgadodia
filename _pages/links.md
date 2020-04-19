@@ -29,11 +29,9 @@ General
 Computer Science
 
 1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-2. [Microservices](https://martinfowler.com/articles/microservices.html)
-3. [Top 10 pieces of advice for rookie software engineers](https://blog.gds-gov.tech/top-10-pieces-of-advice-for-rookie-software-engineer-f1a2b38f1d56) 
-4. [Google Engineering Practices](https://google.github.io/eng-practices/)
-5. [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
-7. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
-8. [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
-9. [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. [Tips on reading and debugging other programmers' code](https://freelancemag.blogspot.com/2020/02/cracking-chaos-tips-on-reading-and.html?m=1)
+2. [Top 10 pieces of advice for rookie software engineers](https://blog.gds-gov.tech/top-10-pieces-of-advice-for-rookie-software-engineer-f1a2b38f1d56) 
+3. [Google Engineering Practices](https://google.github.io/eng-practices/)
+4. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+5. [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+6. [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7. [Tips on reading and debugging other programmers' code](https://freelancemag.blogspot.com/2020/02/cracking-chaos-tips-on-reading-and.html?m=1)
