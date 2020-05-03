@@ -60,10 +60,16 @@ It lights the Whole Sky.” (Hafiz)
 - "We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about." (Charles Kingsley)
 
 - "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great." (Mark Twain)
+  
 - "Any word you have to hunt for in a thesaurus is the wrong word." (Stephen King)
+  
 - "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it." (Max Planck)
+  
 - "No man who ever held the office of President would congratulate a friend on obtaining it." (John Adams)
+  
 - "The best way to do something 'lean' is to gather a tight group of people, give them very little money, and very little time." (Bob Klein, Chief Engineer of the F-14 program)
+  
 - "He begins working calculus problems in his head as soon as he awakens. He did calculus while driving in his car, while sitting in the living room, and while lying in bed at night." (divorce complaint of Richard Feynman's second wife)
-- 
+  
+- "The amount of energy necessary to refute bullshit is an order of magnitude bigger than to produce it." (Paul Kedrosky)
 
