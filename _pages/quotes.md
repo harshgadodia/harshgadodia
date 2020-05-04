@@ -73,3 +73,13 @@ It lights the Whole Sky.” (Hafiz)
   
 - "The amount of energy necessary to refute bullshit is an order of magnitude bigger than to produce it." (Paul Kedrosky)
 
+- (Also known as Hanlon's razor) "Never attribute to malice that which is adequately explained by stupidity" (Robert J. Hanlon)
+
+- (Also known as Hitchen's razor) "What can be asserted without evidence can be dismissed without evidence" (Christopher Hitchens)    
+  - "Extraordinary claims should require extraordinary evidence to be believed" (Kevin Kelly)
+  
+- "Being enthusiastic is worth 25 IQ points" (Kevin Kelly)
+
+- "The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing." (Kevin Kelly)
+
+- "Be prepared: When you are 90% done any large project (a house, a film, an event, an app) the rest of the myriad details will take a second 90% to complete." ((Kevin Kelly))
