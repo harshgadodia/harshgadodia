@@ -39,4 +39,5 @@ CS
 8. [Manager's Playbook](https://github.com/ksindi/managers-playbook)
 9. [Never attribute to stupidity that which is adequately explained by opportunity cost](https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html)
 10. [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+11. [Why is it recommended to have empty line in the end of a source file?](https://stackoverflow.com/questions/2287967/why-is-it-recommended-to-have-empty-line-in-the-end-of-a-source-file)
     
