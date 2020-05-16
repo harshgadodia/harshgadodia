@@ -1,4 +1,9 @@
 var store = [{
+        "title": "The Bae Area",
+        "excerpt":"I had the opportunity to spend 2017 living and working in the San Francisco Bay Area, California, and it was definitely one of the greatest personal and professional experiences of my life. Being in the Bay Area was refreshing - you surely learn a great deal about yourself when you’re...","categories": ["blog"],
+        "tags": [],
+        "url": "http://localhost:4000/blog/The-Bae-Area/",
+        "teaser":null},{
         "title": "The Trains Of Japan",
         "excerpt":"I loved many things about Japan, but my favourite was the Shinkansen (bullet train) by far. They are an absolute engineering marvel, the best in the world at safety, punctuality, and technology. There have been zero fatalities aboard the bullet trains in over fifty years of operation, the trains travel...","categories": ["blog"],
         "tags": [],
