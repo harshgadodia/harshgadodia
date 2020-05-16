@@ -28,7 +28,7 @@ General
 9. [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 10. [Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/)
 
-CS
+Code
 
 1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 2. [Top 10 pieces of advice for rookie software engineers](https://blog.gds-gov.tech/top-10-pieces-of-advice-for-rookie-software-engineer-f1a2b38f1d56) 
@@ -41,4 +41,7 @@ CS
 9. [Never attribute to stupidity that which is adequately explained by opportunity cost](https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html)
 10. [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 11. [Why is it recommended to have empty line in the end of a source file?](https://stackoverflow.com/questions/2287967/why-is-it-recommended-to-have-empty-line-in-the-end-of-a-source-file)
-    
+12. [Jeff Atwood's Blog](https://blog.codinghorror.com/)
+13. [The most successful devs share more than they take](https://stackoverflow.blog/2020/05/14/the-most-successful-developers-share-more-than-they-take/?cb=1)
+14. [Joel Spolsky's Blog](https://www.joelonsoftware.com/)
+15. [Little Bobby Tables](https://www.explainxkcd.com/wiki/index.php/Little_Bobby_Tables)
