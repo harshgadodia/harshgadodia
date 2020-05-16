@@ -6,12 +6,14 @@ main:
   #   url: /professional/
   - title: "Blog"
     url: /blog/
-  - title: "Bookshelf"
-    url: /bookshelf/
+  #- title: "Bookshelf"
+  #  url: /bookshelf/
   - title: "Quotes"
     url: /quotes/
   - title: "Links"
     url: /links/
+  - title: "Professional"
+    url: /professional/  
 
   # - title: "Sample Collections"
   #   url: /collection-archive/

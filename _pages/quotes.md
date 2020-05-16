@@ -89,4 +89,5 @@ It lights the Whole Sky.” (Hafiz)
 - (Paraphrased) "You need to over prepare by a factor of 10 to make it look like you did not prepare at all" (Neil deGrasse Tyson) 
 
 - "It's not enough to be right, you have to be effective" (Cyril deGrasse Tyson)
-  
+
+- “Tactics is knowing what to do when there is something to do. Strategy is knowing what to do when there is nothing to do.” (Savielly Tartakower) 
