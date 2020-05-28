@@ -7,7 +7,7 @@ path: ""
 type: posts
 values:
 layout: single
-author_profile: true
+author_profile: false
 read_time: false
 comments: true
 share: true
