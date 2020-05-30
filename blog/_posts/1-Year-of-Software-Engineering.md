@@ -16,7 +16,7 @@ classes: wide
 
 ---
 
-Today marks a year of working full-time as a software engineer. With the caveat that I'm not an excellent engineer myself, here are some reflections of the past year, presented as advice to myself if I could time travel to one year ago.
+June 3 2020 marks a year of working full-time as a software engineer. With the caveat that I'm not an excellent engineer myself, here are some reflections of the past year, presented as advice to myself if I could time travel to one year ago.
 
 1. It's hard  
    Don't be fooled by people around you who claim to just get it, they've put in their due diligence. It's normal to experience many moments of helplessness at the start, but I think that with experience and expertise, these moments will start to get rarer. You will feel yourself not just getting better at solving problems you've seen before, but also at those you haven't. This is because as a software engineer whose job is to solve complex problems, you're not just learning - you're also learning to learn. The world of technology is a fast-paced and constantly evolving one. The learning can never stop, and you need to accept that. Frameworks, libraries, languages, tools, methodologies, technologies will necessarily change faster than you can keep up unless you try.

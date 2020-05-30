@@ -16,6 +16,8 @@ classes: wide
 
 ---
 
+3 June 2020
+
 Today marks a year of working full-time as a software engineer. With the caveat that I'm not an excellent engineer myself, here are some reflections of the past year, presented as advice to myself if I could time travel to one year ago.
 
 1. Software Engineering is hard.  
