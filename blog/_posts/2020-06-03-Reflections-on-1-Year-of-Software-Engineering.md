@@ -48,7 +48,6 @@ Today marks a year of working full-time as a software engineer. With the caveat 
 
 We're extremely fortunate to be in software engineering at a time where it's cool to know how to code, hardware is mature, and resources are plenty. I think the internet has brought more disruption to our lives in the past two decades than anything else in the past 6 million. It's exhilarating to think about what the next few decades have in store for us - or more precisely, where we, software engineers, decide to take technology. I personally got into software engineering because I was mind blown by how much one can create with a computer and internet access. Exciting times ahead!
  
-Credits
-A special shout out to David, KH, Mani, Shaun, and TH for being excellent mentors in my journey as a software engineer thus far. You guys are great.
+*Credits*    
+*A special shout out to David, KH, Mani, Shaun, and TH for being excellent mentors in my journey as a software engineer thus far. You guys are great.*
 
-Thanks also to Vignesh, Ahan, Varun, Nicky for reading drafts of this.
