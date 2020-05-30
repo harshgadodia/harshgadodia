@@ -6,15 +6,15 @@ defaults:
 path: ""
 type: posts
 values:
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+layout: posts
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 classes: wide
 
----
+----
 
 Today marks a year of working full-time as a software engineer. With the caveat that I'm not an excellent engineer myself, here are some reflections of the past year, presented as advice to myself if I could time travel to one year ago.
 

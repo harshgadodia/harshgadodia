@@ -6,12 +6,12 @@ defaults:
 path: ""
 type: posts
 values:
-layout: single
+layout: posts
 author_profile: false
 read_time: false
-comments: true
-share: true
-related: true
+comments: false
+share: false
+related: false
 classes: wide
 
 ---
