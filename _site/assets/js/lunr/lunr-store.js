@@ -14,8 +14,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/blog/This-is-America/",
         "teaser":null},{
-        "title": "Mit Admission",
+        "title": "Mit Admission Process",
         "excerpt":"I’ve never seen an admissions process purer than the one MIT claims to have: “Our process is a student-centered process, not a school or region centered process. This means that we do not read your application along with other students from your school or region to compare you against each...","categories": ["blog"],
         "tags": [],
-        "url": "http://localhost:4000/blog/MIT-admission/",
+        "url": "http://localhost:4000/blog/MIT-admission-process/",
         "teaser":null}]

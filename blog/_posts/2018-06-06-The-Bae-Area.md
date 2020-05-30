@@ -8,7 +8,7 @@ type: posts
 values:
 layout: posts
 author_profile: false
-read_time: true
+read_time: false
 comments: true
 share: true
 related: true
