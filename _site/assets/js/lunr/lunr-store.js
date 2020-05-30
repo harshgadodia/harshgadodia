@@ -18,4 +18,9 @@ var store = [{
         "excerpt":"I’ve never seen an admissions process purer than the one MIT claims to have: “Our process is a student-centered process, not a school or region centered process. This means that we do not read your application along with other students from your school or region to compare you against each...","categories": ["blog"],
         "tags": [],
         "url": "http://localhost:4000/blog/MIT-admission-process/",
+        "teaser":null},{
+        "title": "Reflections On 1 Year Of Software Engineering",
+        "excerpt":"Today marks a year of working full-time as a software engineer. With the caveat that I’m not an excellent engineer myself, here are some reflections of the past year, presented as advice to myself if I could time travel to one year ago. Software Engineering is hard.Don’t be fooled by...","categories": ["blog"],
+        "tags": [],
+        "url": "http://localhost:4000/blog/Reflections-on-1-Year-of-Software-Engineering/",
         "teaser":null}]

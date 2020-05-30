@@ -14,6 +14,7 @@ share: false
 related: false
 classes: wide
 
+
 ---
 I had the opportunity to spend 2017 living and working in the San Francisco Bay Area, California, and it was definitely one of the greatest personal and professional experiences of my life. Being in the Bay Area was refreshing - you surely learn a great deal about yourself when you’re outside of your comfort zone (10,000 miles to be precise) - but it would be injustice to call it outside my comfort zone really. Over the year, I learnt to not only be comfortable where I was, but also grew a newfound appreciation for what it meant to be liberal, American, and be perhaps, truly free.
 
