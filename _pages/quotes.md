@@ -86,8 +86,12 @@ It lights the Whole Sky.” (Hafiz)
 
 - "You can talk to someone a hundred years from now when they read your writing" (Neil deGrasse Tyson)
   
-- (Paraphrased) "You need to over prepare by a factor of 10 to make it look like you did not prepare at all" (Neil deGrasse Tyson) 
+- "You need to over prepare by a factor of 10 to make it look like you did not prepare at all" (Neil deGrasse Tyson) 
 
 - "It's not enough to be right, you have to be effective" (Cyril deGrasse Tyson)
 
 - “Tactics is knowing what to do when there is something to do. Strategy is knowing what to do when there is nothing to do.” (Savielly Tartakower) 
+  
+- “There are three deaths. The first is when the body ceases to function. The second is when the body is consigned to the grave. The third is that moment, sometime in the future, when your name is spoken for the last time.” (David M. Eagleman)
+  
+- "You measure yourself by the people who measure themselves by you" (Carter Chambers)
