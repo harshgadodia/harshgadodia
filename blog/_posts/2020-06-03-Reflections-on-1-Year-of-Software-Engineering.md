@@ -22,11 +22,11 @@ Today marks one year of working full-time as a software engineer. While I'm stil
 
 --
 
-1. **Software Engineering is hard**      
+1. **It's hard**      
    Don't be fooled by people around you who claim to *just* get it, they've put in their due diligence. It's normal to experience many moments of helplessness at the start of the journey. With experience and expertise, these moments will start to get rarer. You will feel yourself getting better at solving not just problems you've seen before, but also at those you haven't. This is because your job is to solve complex problems. You're not only learning - you're also learning to learn. Technologies will change faster than you can keep up with, unless you try. The world of technology is a fast-paced and constantly evolving one. The learning can never stop, and you need to accept that.
  
 
-2. **Ask for advice**  
+2. **Asking for advice**  
    Talk to senior engineers. Talk to engineers you respect. Watch how they work. Pair programme. Asking for advice is not just a great way to learn things the easier way, but it also gets senior engineers invested in your growth. Do note though that if you're always asking someone for advice and never following through, you're doing one of three things: asking the wrong person for advice, lacking discipline, or a jerk.
 
 3. **2 categories of problems**  
@@ -45,10 +45,10 @@ Today marks one year of working full-time as a software engineer. While I'm stil
 6. **JFGI**  
     Stay away from engineers whose response to your every question is to ["jfgi"](https://www.urbandictionary.com/define.php?term=jfgi). While it's not conducive to run to someone for help every time you face a problem, it's also not fair if senior engineers are not interested in helping you out at all. When you're new or inexperienced, there are just too many things you don't know, and you might not know where to start. In these situations, some guidance can go a long way. Some of the best teachings I've gotten from senior engineers are not just how to fix a bug, but how to diagnose and analyse so you can get there yourself. Of course, do be respectful and not disrupt someone else's state of flow when asking questions. Preferably group questions together so it's less distracting for the other party. This is even more important right now when everyone is working remotely and you can't physically see if someone else is busy or already off work. And of course, please play that part for the new face once you know what you're doing. 
 
-7. **Contributions**  
+7. **Contributing**  
     I often felt small and insignificant because of how little code I was contributing at the start of my career. I still feel like that sometimes. However, the more you know and the more you learn, the faster you'll be able to contribute. In other words, your contributions will grow exponentially with your growth. While the workplace is not a university where your raison d'être is to learn, I it's perfectly fine to spend time sharpening the knife as long as it's in the spirit of what you do. It's important to pick up new projects and work breadth-wise, especially at the start. Specialising so early on is over rated, or rather, doesn't even make sense if you don't even know what you don't know.
 
-8. **Invest in your tools**  
+8. **Investing in your tools**  
     Sometimes, it's hard to see the big picture, but investing in tools, both hardware and software, will pay off in the long run. Instead of brute-forcing, spend some time, money, and energy on resources that will make your life easier. If you're going to be staring at a monitor 12 hours a day for the next 5 years, it makes sense to get the one that you enjoy looking at. If you're going to be using an IDE/text editor a lot, it's worth spending some time getting to know the shortcuts. It's probably also worth exploring tools that have stood the test of time, like Vim. People claim it can match the speed at which you think. That's a bold claim.
 
 9.  **Burning out**  
