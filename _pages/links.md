@@ -42,3 +42,5 @@ Code
 10. [Why is it recommended to have empty line in the end of a source file?](https://stackoverflow.com/questions/2287967/why-is-it-recommended-to-have-empty-line-in-the-end-of-a-source-file)
 11. [The most successful devs share more than they take](https://stackoverflow.blog/2020/05/14/the-most-successful-developers-share-more-than-they-take/?cb=1)
 12. [Little Bobby Tables](https://www.explainxkcd.com/wiki/index.php/Little_Bobby_Tables)
+13. [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+14. [Essays on programming](https://www.benkuhn.net/progessays/)

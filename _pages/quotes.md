@@ -95,3 +95,5 @@ It lights the Whole Sky.” (Hafiz)
 - “There are three deaths. The first is when the body ceases to function. The second is when the body is consigned to the grave. The third is that moment, sometime in the future, when your name is spoken for the last time.” (David M. Eagleman)
   
 - "You measure yourself by the people who measure themselves by you" (Carter Chambers)
+
+- "No morality can be founded on authority, even if the authority were divine" (A. J. Ayer)  
