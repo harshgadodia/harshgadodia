@@ -96,4 +96,4 @@ It lights the Whole Sky.” (Hafiz)
   
 - "You measure yourself by the people who measure themselves by you" (Carter Chambers)
 
-- "No morality can be founded on authority, even if the authority were divine" (A. J. Ayer)  
+- "No morality can be founded on authority, even if the authority were divine" (A. J. Ayer)
