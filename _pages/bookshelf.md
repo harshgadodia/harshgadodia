@@ -30,3 +30,9 @@ classes: wide
 - Computing, a Concise History, by Paul E. Ceruzzi
 - The Clean Coder: A Code of Conduct for Professional Programmers by Robert Cecil Martin
 - Tiny Habits, by BJ Fogg 
+- Richard Feynmann, A Life in Science, by John Gribbin
+- Albert Einstein, Creator and Rebel, by Banesh Hoffman
+- Hardy, A Mathematician's Apology
+- To Explain the World, The Discovery of Modern Science by Steven Weinberg
+- In The Plex, How Google Thinks, Works, and Shapes Our Lives by Stephen Levy
+- Founders at Work, Stories of Startups' Early Days
