@@ -45,3 +45,4 @@ Code
 13. [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 14. [Essays on programming](https://www.benkuhn.net/progessays/)
 15. [Unix vs Linux](https://www.youtube.com/watch?v=jowCUo_UGts)
+16. [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
