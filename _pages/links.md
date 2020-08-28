@@ -27,6 +27,7 @@ General
 8. [How do I form more connections in my brain so I can be a livelier conversationalist and a quicker writer?](https://www.quora.com/How-do-I-form-more-connections-in-my-brain-so-I-can-be-a-livelier-conversationalist-and-a-quicker-writer/answer/Asher-Nitin?ch=99&share=bd3a6f38&srid=5Tf9)
 9. [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 10. [Mental Models](https://fs.blog/mental-models/#what_are_mental_models)
+11. [Hard work vs. Long work](https://seths.blog/2011/05/hard-work-vs-long-work/)
 
 Code
 
