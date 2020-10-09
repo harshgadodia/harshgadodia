@@ -28,6 +28,7 @@ General
 9. [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 10. [Mental Models](https://fs.blog/mental-models/#what_are_mental_models)
 11. [Hard work vs. Long work](https://seths.blog/2011/05/hard-work-vs-long-work/)
+12. [Boring is fun](https://jamesstuber.com/boring-is-fun/?utm_campaign=Ali%20Abdaal&utm_medium=email&utm_source=Revue%20newsletter)
 
 Code
 
