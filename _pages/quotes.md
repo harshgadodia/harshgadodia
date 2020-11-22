@@ -97,3 +97,11 @@ It lights the Whole Sky.” (Hafiz)
 - "You measure yourself by the people who measure themselves by you" (Carter Chambers)
 
 - "No morality can be founded on authority, even if the authority were divine" (A. J. Ayer)
+
+- "Strange how paranoia can link up with reality now and then" (Philip K. Dick)
+
+- "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom." (Viktor E. Frankl)
+
+- "Though we travel the world over to find the beautiful, we must carry it with us, or we find it not." (Ralph Waldo Emerson)
+
+- "I was born here. I had the audacity of equality" (Hasan Minhaj)
