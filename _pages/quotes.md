@@ -105,3 +105,5 @@ It lights the Whole Sky.” (Hafiz)
 - "Though we travel the world over to find the beautiful, we must carry it with us, or we find it not." (Ralph Waldo Emerson)
 
 - "I was born here. I had the audacity of equality" (Hasan Minhaj)
+
+- "Reality has a well known liberal bias" (Stephen Colbert)
