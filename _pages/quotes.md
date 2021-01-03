@@ -107,3 +107,7 @@ It lights the Whole Sky.” (Hafiz)
 - "I was born here. I had the audacity of equality" (Hasan Minhaj)
 
 - "Reality has a well known liberal bias" (Stephen Colbert)
+
+- "All of humanity's problems stem from man's inability to sit quietly in a room alone" (Blaise Pascal)
+
+- "If two people always agree on everything, then one of them is dispensable" (Winston Churchill)
