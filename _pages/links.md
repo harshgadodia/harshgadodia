@@ -30,6 +30,7 @@ General
 11. [Hard work vs. Long work](https://seths.blog/2011/05/hard-work-vs-long-work/)
 12. [Boring is fun](https://jamesstuber.com/boring-is-fun/?utm_campaign=Ali%20Abdaal&utm_medium=email&utm_source=Revue%20newsletter)
 13. [Cognitive biases warping your perception of reality](https://www.weforum.org/agenda/2018/12/24-cognitive-biases-that-are-warping-your-perception-of-reality)
+14. [To Get Good, Go After The Metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/)
 
 Code
 
