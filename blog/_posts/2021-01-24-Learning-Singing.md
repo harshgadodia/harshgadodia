@@ -24,10 +24,10 @@ I reflected on the different stages I've been through whilst learning singing fr
 
 I think I'm between Points 2 and 3, so Points 4-6 are speculative, meaning that I have not reached those stages. This is how I imagine myself gauging my skills when I reach there. I'm curious to know if and how this list changes when I get there.
 
-1. **Finding your singing voice**
+1. **Finding your singing voice.**
   I started off with practicing what I thought was singing along to songs, but recording myself made me realise that I was just saying the words. Figuring out the difference between saying stuff and singing was the first milestone.
 
-2. **Singing a song, along with the singer’s voice, thinking you sound good**
+2. **Singing a song, along with the singer’s voice, thinking you sound good.**
    The second step was singing (in my singing voice) along to a song, thinking I sounded alright.
 
    Not having the ears to differentiate between good and bad singing, I was having a good time thinking I sounded good.
