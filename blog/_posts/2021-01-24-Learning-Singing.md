@@ -18,7 +18,7 @@ classes: wide
 
 24 January 2021
 
-I've been learning singing for the better part of a year now. When someone asked me today how I knew if I was getting better, I was intrigued. The question brought me on a journey from back to the first day I tried singing until now.
+I've been learning singing for the better part of a year now. When someone asked me today how I knew if I was getting better, I was intrigued. The question brought me on a journey back to when I first started.
 
 I reflected on the different stages I've been through whilst learning singing from scratch, and here is a short list on how I think I know I'm getting better.
 
@@ -42,3 +42,5 @@ I think I'm between Points 2 and 3, so Points 4-6 are speculative, meaning that 
 
 6. **Being able to sing without any music and sounding good.**
   I've tried recording myself listening to music through earphones but singing into a mic before, I was harrowed. I know it's normal to be [jarred by the sound of your own voice](https://time.com/4820247/voice-vocal-cords/#:~:text=People%20perceive%20their%20own%20voice,voice%20you're%20used%20to.), but boy was that an experience. It'll probably take years to reach this stage.
+
+I'm excited for the next steps in my journey.
