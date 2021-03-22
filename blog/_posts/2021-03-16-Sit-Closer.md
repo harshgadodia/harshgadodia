@@ -18,9 +18,9 @@ classes: wide
 
 16 March 2021
 
-I've been working full time as a software engineer for a little less than 2 years now, and I like to think I've picked up many heuristics and meta-skills along the way to improve the way I code, communicate, document, estimate the complexity and time required for tasks (still hard!), prioritize, and tackle problems.
+I've been working full time as a software engineer for close to 2 years now, and I like to think I've picked up many heuristics and meta-skills along the way.
 
-However, I think the most impactful moment for me over the past few years was the humble act of moving down to sit closer to the CTO. I think sitting close to someone you respect and would like to learn from as an underrated way to get better at whatever you want to do.
+I think one of the most underrated things one can do to be be better as software engineer is to sit closer to someone you admire and would want to be more like. During the covid pandemic, I took the opportunity to move seats and sit closer to the CTO since there weren't any other people in office, and I think that that move has made an astronomical impact to my learning.
 
 Sitting closer to the CTO has allowed me to better appreciate how someone responsible for hundreds of engineers and the overall technology of a company spends their time, energy, and brain power. It has enabled me to, in a small way, emulate him and elevate my own contributions to match the pace and impact of his.
 
