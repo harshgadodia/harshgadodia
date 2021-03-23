@@ -16,11 +16,11 @@ classes: wide
 
 - "What I would like to have is that we be blessed with a divine discontent. Always not quite satisfied with what we have, always driven to do better." (Lee Hsien Loong)
 
-- “And still, after all this time,  
-The sun never says to the earth,  
-"You owe Me."  
-Look what happens with  
-A love like that,  
+- “And still, after all this time,
+The sun never says to the earth,
+"You owe Me."
+Look what happens with
+A love like that,
 It lights the Whole Sky.” (Hafiz)
 
 - "The best writing is rewriting." (E. B. White)
@@ -48,9 +48,9 @@ It lights the Whole Sky.” (Hafiz)
 - "Not all those who wander are lost." (J.R.R Tolkien)
 
 - “It was awful-tasting medicine, but I guess the patient needed it. Sometimes life hits you in the head with a brick. Don’t lose faith. I’m convinced that the only thing that kept me going was that I loved what I did.” (Steve Jobs)
-  
+
 - "The golden rule is a good standard which is further improved by doing unto others, wherever reasonable, as they want to be done by." (Karl Popper)
-  
+
 - “Hello, solitude. How are you today? Come, sit with me, and I will care for you.” (Thich Nhat Hanh)
 
 - “Put your hand on a hot stove for a minute and it seems like an hour. Sit with a pretty girl for an hour, and it seems like a minute. That is relativity.” (Albert Einstein)
@@ -60,24 +60,24 @@ It lights the Whole Sky.” (Hafiz)
 - "We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about." (Charles Kingsley)
 
 - "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great." (Mark Twain)
-  
+
 - "Any word you have to hunt for in a thesaurus is the wrong word." (Stephen King)
-  
+
 - "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it." (Max Planck)
-  
+
 - "No man who ever held the office of President would congratulate a friend on obtaining it." (John Adams)
-  
+
 - "The best way to do something 'lean' is to gather a tight group of people, give them very little money, and very little time." (Bob Klein, Chief Engineer of the F-14 program)
-  
+
 - "He begins working calculus problems in his head as soon as he awakens. He did calculus while driving in his car, while sitting in the living room, and while lying in bed at night." (divorce complaint of Richard Feynman's second wife)
-  
+
 - "The amount of energy necessary to refute bullshit is an order of magnitude bigger than to produce it." (Paul Kedrosky)
 
 - (Also known as Hanlon's razor) "Never attribute to malice that which is adequately explained by stupidity" (Robert J. Hanlon)
 
-- (Also known as Hitchen's razor) "What can be asserted without evidence can be dismissed without evidence" (Christopher Hitchens)    
+- (Also known as Hitchen's razor) "What can be asserted without evidence can be dismissed without evidence" (Christopher Hitchens)
   - "Extraordinary claims require extraordinary evidence" (Carl Sagan)
-  
+
 - "Being enthusiastic is worth 25 IQ points" (Kevin Kelly)
 
 - "The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing." (Kevin Kelly)
@@ -85,15 +85,15 @@ It lights the Whole Sky.” (Hafiz)
 - "Be prepared: When you are 90% done any large project (a house, a film, an event, an app) the rest of the myriad details will take a second 90% to complete." (Kevin Kelly)
 
 - "You can talk to someone a hundred years from now when they read your writing" (Neil deGrasse Tyson)
-  
-- "You need to over prepare by a factor of 10 to make it look like you did not prepare at all" (Neil deGrasse Tyson) 
+
+- "You need to over prepare by a factor of 10 to make it look like you did not prepare at all" (Neil deGrasse Tyson)
 
 - "It's not enough to be right, you have to be effective" (Cyril deGrasse Tyson)
 
-- “Tactics is knowing what to do when there is something to do. Strategy is knowing what to do when there is nothing to do.” (Savielly Tartakower) 
-  
+- “Tactics is knowing what to do when there is something to do. Strategy is knowing what to do when there is nothing to do.” (Savielly Tartakower)
+
 - “There are three deaths. The first is when the body ceases to function. The second is when the body is consigned to the grave. The third is that moment, sometime in the future, when your name is spoken for the last time.” (David M. Eagleman)
-  
+
 - "You measure yourself by the people who measure themselves by you" (Carter Chambers)
 
 - "No morality can be founded on authority, even if the authority were divine" (A. J. Ayer)
