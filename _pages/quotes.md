@@ -111,3 +111,5 @@ It lights the Whole Sky.” (Hafiz)
 - "All of humanity's problems stem from man's inability to sit quietly in a room alone" (Blaise Pascal)
 
 - "If two people always agree on everything, then one of them is dispensable" (Winston Churchill)
+
+- "Programming isn't about what you know; it's about what you can figure out." (Chris Pine)
