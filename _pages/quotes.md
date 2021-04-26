@@ -113,3 +113,9 @@ It lights the Whole Sky.” (Hafiz)
 - "If two people always agree on everything, then one of them is dispensable" (Winston Churchill)
 
 - "Programming isn't about what you know; it's about what you can figure out." (Chris Pine)
+
+- "Train employees well enough they could get another job, but treat them well enough so they never want to" (Kevin Kelly)
+
+- "You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it" (Kevin Kelly)
+
+- "If your goal does not have a schedule, it is a dream." (Kevin Kelly)
