@@ -51,7 +51,7 @@ Putting on noise cancelling headphones, wearing a hoodie with its cap on, and si
 
 
 6. **Over engineering does not excite me**  
-  Since I derive my motivation from solving pressing real-world problems, I'm not excited about using a particular tool or technology for the sake of using it or a distant future need. I'm totally open to learning and using it when the situation calls for it, though. An example is designing for scale from the beginning whilst not having any idea about potential load. [Premature optimazation is the root of all evil](https://www.explainxkcd.com/wiki/index.php/1691:_Optimization).  
+  Since I derive my motivation from solving pressing real-world problems, I'm not excited about using a particular tool or technology for the sake of using it or a distant future need. I'm totally open to learning and using it when the situation calls for it, though. An example is designing for scale from the beginning whilst not having any idea about potential load. [Premature optimsation is the root of all evil](https://www.explainxkcd.com/wiki/index.php/1691:_Optimization).  
 
 7. **Communication is a great strength to leverage on**  
    As engineers, we cannot always assume the services of a strong Product Manager will be readily available. Instead, being able to understand requirements, prioritize, and communicate will make you very valuable. This is primarily because you are able to add value through two dimensions - code, and product.
