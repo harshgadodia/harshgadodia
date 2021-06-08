@@ -54,7 +54,7 @@ Putting on noise cancelling headphones, wearing a hoodie with its cap on, and si
   Since I derive my motivation from solving pressing real-world problems, I'm not excited about using a particular tool or technology for the sake of using it or a distant future need. I'm totally open to learning and using it when the situation calls for it, though. An example is designing for scale from the beginning whilst not having any idea about potential load. [Premature optimsation is the root of all evil](https://www.explainxkcd.com/wiki/index.php/1691:_Optimization).  
 
 7. **Communication is a great strength to leverage on**  
-   As engineers, we cannot always assume the services of a strong Product Manager will be readily available. Instead, being able to understand requirements, prioritize, and communicate will make you very valuable. This is primarily because you are able to add value through two dimensions - code, and product.
+   As engineers, we cannot always assume the services of a strong Product Manager will be readily available. Instead, being able to understand requirements, prioritise, and communicate will make you very valuable. This is primarily because you are able to add value through two dimensions - code, and product.
 
 8. **I prefer a *noisier* environment**  
   I work best in an environment where there is ample opportunity for discussion, where engineers are free to interrupt each other to ask questions. This is a very difficult state to achieve, so kudos to my managers and teammates for fostering a positive work environment. Being able to unblock yourself by having the freedom to ask questions anytime is a true luxury.  
