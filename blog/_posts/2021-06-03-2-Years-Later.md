@@ -36,7 +36,7 @@ Thoughts in no particular order.
    Your brain works while you sleep, especially when you've been stuck on a problem for days. Get some rest, you might just wake up to the solution.
 
 
-2. **Self-confidence + Enthusiam + Effort =  Unstoppable**  
+2. **Self-confidence + Enthusiasm + Effort =  Unstoppable**  
   You don't have to start off as the smartest person in the room, but if you keep hustling, you'll likely get where you want. It's also important to focus on your own strengths to add value, but don't be intimidated by the strengths of others. Don't compare yourself or you'll be very unhappy.
 
 3. **Haters gonna hate**  
