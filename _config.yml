@@ -284,3 +284,5 @@ defaults:
       share: true
       related: false
       published: true
+
+theme: jekyll-theme-slate
