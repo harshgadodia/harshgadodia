@@ -1,21 +1,3 @@
----
-
-defaults:
-# _posts
-- scope:
-path: ""
-type: posts
-values:
-layout: posts
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
-classes: wide
-
----
-
 23 May 2019
 
 I loved many things about Japan, but my favourite was the Shinkansen (bullet train) by far. They are an absolute engineering marvel, the best in the world at safety, punctuality, and technology. 
