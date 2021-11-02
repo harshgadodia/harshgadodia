@@ -11,6 +11,6 @@ I was born in India, but grew up in Singapore, where I served in the army as par
 <br />
 <br />
 
-You can view my resum [here](./resume.md)
+You can view my resume [here](./resume.md).
 
 Check out my blog [here](./links.md).
