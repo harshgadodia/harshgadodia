@@ -35,7 +35,7 @@ General
 Code
 
 1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-2. [Top 10 pieces of advice for rookie software engineers](https://blog.gds-gov.tech/top-10-pieces-of-advice-for-rookie-software-engineer-f1a2b38f1d56) 
+2. [Top 10 pieces of advice for rookie software engineers](https://blog.gds-gov.tech/top-10-pieces-of-advice-for-rookie-software-engineer-f1a2b38f1d56)
 3. [Google Engineering Practices](https://google.github.io/eng-practices/)
 4. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 5. [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
