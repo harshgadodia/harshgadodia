@@ -9,9 +9,8 @@ path: ""
 type: pages
 values:
 layout: single
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
-
-### test
+test122
