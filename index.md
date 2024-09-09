@@ -4,13 +4,15 @@ title: About
 permalink: /
 ---
 
-<img src="profile.jpg" width="200">
+<img src="profile.jpg" width="300">
 
 <br />
 <br />
 
-My name is Harsh (pronounced Hersh). I'm a software engineer at [Ninja Van](https://www.ninjavan.co/en-sg/about-us) and am based in Singapore.
+Hi, I'm Harsh. I'm currently an Engineering Manager at [Ninja Van](https://www.ninjavan.co/en-sg/about-us), a leading logistics unicorn based in Singapore, where I reside.
 
-I was born in Satna, India, but grew up in Singapore. I graduated in 2019 from the National University of Singapore. I eventually majored in Computer Engineering, but spent most of my time engaging with a liberal arts programme called the University Scholars Programme (now [NUSCollege](https://nuscollege.nus.edu.sg/)).
+I graduated from the National University of Singapore in 2019 with a major in Computer Engineering. During my studies, I was deeply involved in the University Scholars Programme, now known as [NUSCollege](https://nuscollege.nus.edu.sg/), which allowed me to explore a broad range of subjects beyond engineering.
 
-I spent my second year of college interning as an iOS developer at [Epic!](www.getepic.com), an educational technology start-up in the Bay Area, California.
+In my second year, I interned as an iOS developer at [Epic!](https://www.getepic.com), an educational technology startup in the Bay Area.
+
+Most recently, in 2024, I completed my MBA at the [Quantic School of Business and Technology](https://quantic.edu/about/).
