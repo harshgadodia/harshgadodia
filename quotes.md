@@ -67,7 +67,8 @@ It lights the Whole Sky.” (Hafiz)
 - (Also known as Hanlon's razor) "Never attribute to malice that which is adequately explained by stupidity" (Robert J. Hanlon)
 
 - (Also known as Hitchen's razor) "What can be asserted without evidence can be dismissed without evidence" (Christopher Hitchens)
-  - "Extraordinary claims require extraordinary evidence" (Carl Sagan)
+
+- "Extraordinary claims require extraordinary evidence" (Carl Sagan)
 
 - "Being enthusiastic is worth 25 IQ points" (Kevin Kelly)
 
@@ -108,5 +109,3 @@ It lights the Whole Sky.” (Hafiz)
 - "Train employees well enough they could get another job, but treat them well enough so they never want to" (Kevin Kelly)
 
 - "You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it" (Kevin Kelly)
-
-- "If your goal does not have a schedule, it is a dream." (Kevin Kelly)

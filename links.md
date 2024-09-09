@@ -4,12 +4,12 @@ title: Links
 permalink: /links/
 ---
 
-Here are some links that you might learn something from.
+Here are some links that you might also enjoy.
 
 General
 
 1. [Which jobs help people the most?](https://80000hours.org/career-guide/high-impact-jobs/)
-2. [The 3 kinds of non-fiction books](https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/) 
+2. [The 3 kinds of non-fiction books](https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/)
 3. [Cities and Ambition](http://www.paulgraham.com/cities.html)
 4. [How Will You Measure Your Life](https://hbr.org/2010/07/how-will-you-measure-your-life)
 5. [Advice by Patrick Collison](https://patrickcollison.com/advice)
