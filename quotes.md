@@ -1,16 +1,7 @@
 ---
-
+layout: page
+title: Quotes
 permalink: /quotes/
-title: "Quotes"
-
-defaults:
-- scope:
-path: ""
-type: pages
-values:
-layout: single
-author_profile: false
-classes: wide
 ---
 
 
