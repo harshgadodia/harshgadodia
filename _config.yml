@@ -21,7 +21,9 @@
 title: Harsh Gadodia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 remote_theme: just-the-docs
+nav_enabled: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
