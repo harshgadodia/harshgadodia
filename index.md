@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-<img src="profilepicture.jpeg" width="200">
+<img src="profile.jpg" width="200">
 
 <br />
 <br />
