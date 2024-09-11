@@ -6,3 +6,4 @@ permalink: /blog/
 
 1. [The Bay Area](/the-bay-area)
 2. [Shinkansen](/shinkansen)
+3. [Reflections on 1 Year of Software Engineering](/1-year)
