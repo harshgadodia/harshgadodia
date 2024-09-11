@@ -1,19 +1,9 @@
 ---
-
-defaults:
-# _posts
-- scope:
-path: ""
-type: posts
-values:
-layout: posts
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
-classes: wide
-
+layout: post
+title: "This is America"
+date: 2019-07-02
+categories: blog
+permalink: /america
 ---
 
 2 July 2019
