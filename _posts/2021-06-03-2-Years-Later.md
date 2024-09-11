@@ -12,7 +12,7 @@ Time flies, and it's been yet another year working as a software engineer for me
 
 When I last wrote a [similar post](https://harshgadodia.com/blog/Reflections-on-1-Year-of-Software-Engineering/) a year ago, I focused on reflecting on my one year in the industry as a full-timer, asking myself, what did I wish I knew before I started?
 
-In this post, I'd like to be less formal. I'll instead mention things that have surprised me, things I've learnt about myself, and talk about what keeps me motivated. Maybe you will be able to relate, and learn from my insights. 
+In this post, I'd like to be less formal. I'll instead mention things that have surprised me, things I've learnt about myself, and talk about what keeps me motivated. Maybe you will be able to relate, and learn from my insights.
 
 Thoughts in no particular order.
 <br />
