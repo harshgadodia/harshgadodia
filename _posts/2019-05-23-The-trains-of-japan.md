@@ -1,11 +1,17 @@
+---
+layout: post
+title: "Shinkansen"
+date: 2019-05-23
+categories: blog
+permalink: /shinkansen
+---
+
 23 May 2019
 
-I loved many things about Japan, but my favourite was the Shinkansen (bullet train) by far. They are an absolute engineering marvel, the best in the world at safety, punctuality, and technology. 
+One of the many remarkable experiences I had in Japan was riding the Shinkansen, or bullet train. Of all the incredible things to see and do in Japan, the Shinkansen stands out as my favorite. This engineering marvel exemplifies the pinnacle of safety, punctuality, and technological innovation.
 
-There have been zero fatalities aboard the bullet trains in over fifty years of operation, the trains travel at close to 300 km/h, and the average annual delay per train is 0.9 minutes, *including* natural disasters. 
+The Shinkansen's track record is nothing short of astounding. Over the past fifty years, there have been zero fatalities aboard these trains—a testament to their impeccable safety standards. They can reach speeds of up to 300 km/h, making long-distance travel not only efficient but exhilarating. Remarkably, the average annual delay per train is just 0.9 minutes, a statistic that even includes disruptions caused by natural disasters.
 
-These trains are representative of the Japanese culture in many ways, including a radical thirst for perfection and a devotion to craftsmanship.
+The Shinkansen is more than just a mode of transportation; it embodies many aspects of Japanese culture. Its precision and reliability reflect a deep-seated commitment to perfection and an unwavering devotion to craftsmanship. Each journey on the Shinkansen feels like a blend of advanced technology and meticulous attention to detail, representing Japan's broader values of excellence and innovation.
 
-<img src= "/assets/shinkansenN700.jpg" width="100000000">
-
-<img src= "/assets/shinkansenE4.jpg" width="100000000">
+In a country renowned for its dedication to perfection, the Shinkansen is a shining example of how technical prowess and cultural values come together to create something truly extraordinary.
